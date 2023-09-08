@@ -14,3 +14,35 @@ git config --global user.email lauraneirago@hotmail.com
 
 1- git init (iniciar un repositorio vacio)
 2- git add . (se incluye todo el contenido del proyecto para el versionamiento)
+3- git commit -m "mensaje descriptivo segun el proyecto que estoy haciendo"
+   git commit -m "galeria"
+
+   luego voy a la pagina y creo un repositorio 
+   . solo minusculas
+   . sin acentos 
+   .sin espacios
+   . sinn guines bajos solo medios
+   luego de crear el repositorio copiamos el link que nos arroja y volvemos a visual 
+
+4- git remote add origin url
+   git remote add origin https://github.com/lauraneirago/bootstrap.git
+
+5- git push -u origin master o main
+se acepta todo
+
+si qiuiero descargar otro proyecto de otro repositorio 
+pongo git clone y pongo el link
+
+y vuelvo y hago estos pasos 
+Working directory
+1- git init 
+2- git add . 
+3- git commit -m "mensaje descriptivo segun el proyecto que estoy haciendo"
+4- git remote add origin url
+   git remote add origin https://github.com/lauraneirago/bootstrap.git
+5- git push -u origin master o main
+
+staging area 
+1- git add  
+2- git commit -m ""
+3- git push
