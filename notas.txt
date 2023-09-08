@@ -1,0 +1,16 @@
+Framework: conjunto de herramientas creadas que se utiliza para el bien comun
+o la implementación general
+
+
+Github
+configuracion de credenciales:
+correo
+usuario
+
+git config --global user.name ´usuario de github´
+git config --global user.name lauraneirago
+git config --global user.email ´correo de github´
+git config --global user.email lauraneirago@hotmail.com
+
+1- git init (iniciar un repositorio vacio)
+2- git add . (se incluye todo el contenido del proyecto para el versionamiento)
